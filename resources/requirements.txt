@@ -1,0 +1,5 @@
+seaborn
+ipywidgets
+pylatexenc
+matplotlib
+numpy
